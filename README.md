@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋 I'm Diptarup Bhattacharya
 
-<!--
-**getdiptarup-dot/getdiptarup-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Graduate (2023)
 
-Here are some ideas to get you started:
+💻 Aspiring Java Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+
+- Java
+- Spring Boot
+- React
+- SQL
+- Git & GitHub
+- Data Structures & Algorithms
+
+## 🛠 Tech Stack
+
+- Java
+- Spring Boot
+- React
+- SQL
+- HTML
+- CSS
+- JavaScript
+- Git
+
+## 🎯 Goals
+
+- Build real-world projects
+- Improve problem-solving skills
+- Become a Full Stack Software Developer
+
+## 📫 7685945532
+
+📧 getdiptarup@gmail.com
+
